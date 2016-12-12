@@ -1,2 +1,2 @@
 # hello-world
-Im called Jared Beale and I like to code! :)
+Im called StraightG and I like to code! :)
